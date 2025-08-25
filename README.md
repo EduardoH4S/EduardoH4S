@@ -1,4 +1,4 @@
-<h1 align="center">Eduardo H4S</h1>
+<h1 align="center">Eduardo Hub</h1>
 <h3 align="center">Estudante Tecnologia da Informação, Inteligência Artificial e Automação</h3>
 
 <p align="center">
