@@ -1,5 +1,5 @@
 <h1 align="center">Eduardo H4S</h1>
-<h3 align="center">Engenheiro de Software com foco em Back-End, Inteligência Artificial e Automação</h3>
+<h3 align="center">Estudante Tecnologia da Informação, Inteligência Artificial e Automação</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=EduardoH4S&label=Profile%20views&color=0e75b6&style=flat" alt="EduardoH4S" />
